@@ -1,0 +1,4 @@
+# InventoCLI has ZERO mandatory third-party dependencies!
+# It runs directly on Python 3.10+ standard library.
+# Optional testing utilities:
+pytest>=7.0.0
