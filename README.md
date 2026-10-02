@@ -148,7 +148,7 @@ cli-crud-inventory-app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/cli-crud-inventory-app.git
+   git clone https://github.com/siddu9825/cli-crud-inventory-app.git
    cd cli-crud-inventory-app
    ```
 
@@ -393,7 +393,7 @@ Follow these steps to submit your project and create the mandatory GitHub Releas
 2. Connect your local repository and push:
    ```bash
    # Add remote
-   git remote add origin https://github.com/<YOUR_USERNAME>/cli-crud-inventory-app.git
+   git remote add origin https://github.com/siddu9825/cli-crud-inventory-app.git
 
    # Rename branch to main
    git branch -M main
@@ -405,8 +405,8 @@ Follow these steps to submit your project and create the mandatory GitHub Releas
 ### Step 2: Create the GitHub Release (Mandatory)
 
 #### Option A: Using the GitHub Web Interface
-1. Go to your repository on GitHub: `https://github.com/<YOUR_USERNAME>/cli-crud-inventory-app`.
-2. In the right-hand sidebar, click **Releases** (or navigate to `https://github.com/<YOUR_USERNAME>/cli-crud-inventory-app/releases/new`).
+1. Go to your repository on GitHub: `https://github.com/siddu9825/cli-crud-inventory-app`.
+2. In the right-hand sidebar, click **Releases** (or navigate to `https://github.com/siddu9825/cli-crud-inventory-app/releases/new`).
 3. Click **Draft a new release**.
 4. Choose the existing tag: **`v1.0.0`** (or create tag `v1.0.0` on `main`).
 5. Set Release Title: `v1.0.0 - Production CLI CRUD Application`.
@@ -435,8 +435,8 @@ gh release create v1.0.0 \
 
 ### Step 3: Submission URLs
 Submit both URLs as required:
-- **Repository URL**: `https://github.com/<YOUR_USERNAME>/cli-crud-inventory-app`
-- **GitHub Release URL**: `https://github.com/<YOUR_USERNAME>/cli-crud-inventory-app/releases/tag/v1.0.0`
+- **Repository URL**: `https://github.com/siddu9825/cli-crud-inventory-app`
+- **GitHub Release URL**: `https://github.com/siddu9825/cli-crud-inventory-app/releases/tag/v1.0.0`
 
 ---
 
